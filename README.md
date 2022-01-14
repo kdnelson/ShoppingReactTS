@@ -11,3 +11,4 @@ npm audit fix
 npm i react-query
 npm i style-components @types/styled-components
 code .
+Minute: 7:33
