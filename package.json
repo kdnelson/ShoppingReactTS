@@ -1,0 +1,22 @@
+{
+  "name": "clutchweb",
+  "version": "1.0.0",
+  "description": "React web project in typescript and connecting to ClutchApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdnelson/ClutchWeb.git"
+  },
+  "author": "Kris Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdnelson/ClutchWeb/issues"
+  },
+  "homepage": "https://github.com/kdnelson/ClutchWeb#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.0"
+  }
+}
