@@ -1,2 +1,2 @@
 # ClutchWeb
-React UI with connection to ClutchAPI
+React UI in Typescript with connection to ClutchAPI
