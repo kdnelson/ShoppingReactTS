@@ -2,7 +2,6 @@ import React from 'react';
 import CartItem from '../CartItem/CartItem';
 import { Wrapper } from './Cart.styles';
 import { CartItemType } from '../App';
-import { isTemplateSpan } from 'typescript';
 
 type Props = {
   cartItems: CartItemType[];
