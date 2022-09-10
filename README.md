@@ -1,5 +1,5 @@
 # ClutchWeb
-React UI in Typescript with connection to ClutchAPI
+ReactTS to ClutchAPI (Might needed)
 
 I had some Node and NPM version mis-matching issues using 'npx create-react-app'
 npm install -g npm stable
