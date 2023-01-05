@@ -1,5 +1,5 @@
 # ClutchWeb
-ReactTS to ClutchAPI (Might needed)
+ReactTS Shopping application
 
 I had some Node and NPM version mis-matching issues using 'npx create-react-app'
 npm install -g npm stable
